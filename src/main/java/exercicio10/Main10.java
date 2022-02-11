@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main10 {
 
     public static void main(String[] args) {
-        
+        // Inicio
         Scanner sc = new Scanner(System.in);
         TreeSet<String> lista = new TreeSet();
         
