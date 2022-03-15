@@ -32,7 +32,7 @@ public class Main10 {
         }
         
         Iterator<String> it = lista.iterator();
-        System.out.println("Listado de las palabras:");
+        System.out.println("Listado de las palabras ordenadas alfabeticamente:");
         
         while (it.hasNext()) {
             String next = it.next();
